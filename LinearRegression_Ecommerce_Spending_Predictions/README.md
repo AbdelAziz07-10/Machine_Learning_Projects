@@ -14,8 +14,3 @@ This project analyzes an ecommerce dataset to understand customer behavior and p
 - Python 3.x  
 - pandas, numpy, matplotlib, seaborn  
 - scikit-learn, scipy
-
-## Open in Google Colab
-You can directly open the notebook in Google Colab:  
-
-[Open in Colab](https://colab.research.google.com/github/AbdelAziz07-10/LinearRegression_Ecommerce_Spending_Predictions/blob/main/Ecommerce_Spending_Prediction.ipynb)
