@@ -46,7 +46,3 @@ Install with:
 ```
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
-
- **Click the button below to open and run the notebook in Google Colab:**
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbdelAziz07-10/stroke_Logistic-Regression_model/blob/main/stroke_Logistic-Regression_model.ipynb)
